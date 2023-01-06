@@ -3,7 +3,7 @@ Dans ce cours on va apprendre a utiliser ROS1 pour la navigation autonome.
 Pour le faire nous allons travailler en pedagogie inversé. 
 L'objet de ce format c'est princpalment la mis en valeur du travaille pratique. 
 
-# Mode de travaille 
+# Mode de travail
 Chaque debut de jours les eleves vont se diviser en groupes de façon aleatoire (calcule aux moment). 
 
 ## Debut de journée 
