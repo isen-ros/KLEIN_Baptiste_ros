@@ -28,6 +28,3 @@ if __name__ == '__main__':
       sub()
     except rospy.ROSInterruptException:
         pass
-
-
-  
